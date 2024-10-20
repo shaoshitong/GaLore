@@ -1,0 +1,13 @@
+CUDA_VISIBLE_DEVICES=7 python /home/data02/zj23/GaLore-master/run_glue_sst2.py \
+    --model_name_or_path /home/data02/zj23/GaLore-master/roberta-base \
+    --enable_galore \
+    --lora_all_modules \
+    --max_length 512 \
+    --seed 2333 \
+    --lora_r 4 \
+    --galore_scale 4 \
+    --per_device_train_batch_size 16 \
+    --update_proj_gap 2000 \
+    --learning_rate 1e-5 \
+    --num_train_epochs 30 \
+    --output_dir /home/data02/zj23/GaLore-master/results/galore/roberta_base/sst2

@@ -1,0 +1,1043 @@
+{"ax":"gj04","labels":1,"kong":null,"sentences":"The sailors rode the breeze clear of the rocks."}
+{"ax":"gj04","labels":1,"kong":null,"sentences":"The weights made the rope stretch over the pulley."}
+{"ax":"gj04","labels":1,"kong":null,"sentences":"The mechanical doll wriggled itself loose."}
+{"ax":"cj99","labels":1,"kong":null,"sentences":"If you had eaten more, you would want less."}
+{"ax":"cj99","labels":0,"kong":"*","sentences":"As you eat the most, you want the least."}
+{"ax":"cj99","labels":0,"kong":"*","sentences":"The more you would want, the less you would eat."}
+{"ax":"cj99","labels":0,"kong":"*","sentences":"I demand that the more John eat, the more he pays."}
+{"ax":"cj99","labels":1,"kong":null,"sentences":"Mary listens to the Grateful Dead, she gets depressed."}
+{"ax":"cj99","labels":1,"kong":null,"sentences":"The angrier Mary got, the more she looked at pictures."}
+{"ax":"cj99","labels":1,"kong":null,"sentences":"The higher the stakes, the lower his expectations are."}
+{"ax":"cj99","labels":1,"kong":null,"sentences":"The more Fred is obnoxious, the less attention you should pay to him."}
+{"ax":"cj99","labels":1,"kong":null,"sentences":"John was lots more obnoxious than Fred."}
+{"ax":"cj99","labels":1,"kong":null,"sentences":"The more people you give beer to, the more people get sick."}
+{"ax":"cj99","labels":0,"kong":"*","sentences":"The more does Bill smoke, the more Susan hates him."}
+{"ax":"cj99","labels":1,"kong":null,"sentences":"The more pictures of him that appear in the news, the more embarrassed John becomes."}
+{"ax":"cj99","labels":1,"kong":null,"sentences":"Every senator seems to become more corrupt, as he talks to more lobbyists."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"Who does John visit Sally because he likes?"}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Marianne did not leave."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"He could not] have been working."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"He can not have been working."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"You will believe Bob."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"John has not kissed Mary."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"I said that never in my life had I seen a place like Bangor."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"Mickey looked up it."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"There tended to be a lot of discussion."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"John tried to be a good boy."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"John is eager."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"We want John to win."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"The box contained the ball from the tree."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"The tube was escaped by gas."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Water bubbled up out of the kettle."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"The tub leaked water."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"What the water did to the bottle was fill it."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"What the water did to the whole bottle was fill it."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"The tank leaked the fluid free."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"John lay the ball in the box."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"John owns the book."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"We persuaded Mary to leave and Sue to stay."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"Mary beautifully plays the violin."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Clearly, John probably will immediately learn French perfectly."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"Sue gave to Bill a book."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"The men will all leave."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"John went home."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"They represented seriously to the dean Mary as a genuine linguist."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"Us love they."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"It is nice to go abroad."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"Mary intended John to go abroad."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"I remembered having kissed Mary."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"I can't believe Fred won't, either."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"John wants to read Fred's story, and I also want to."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"We wanted to invite someone, but we couldn't decide who to."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Mary will read Fred's story, and Joe will read Holly's."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Mary claimed that eating cabbage, Holly shouldn't."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"Mary came to be introduced by the bartender and I also came to be."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"If I can, I will work on it."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Joe's neuroses bother his patrons, and Sally does too."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"I know which book Jos\u00e9 didn't read for class, and which book Lilly did it for him."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"This is the book which Bob reviewed, and this is the one which Fred won't do it."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"I know which book Mag read, and which book Bob said that you hadn't."}
+{"ax":"bc01","labels":0,"kong":"?*","sentences":"I know which book Mag read, and which book Bob read my report that you hadn't."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"I'm sure I would like him to eat fruit more than I would cookies."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Rusty talked about himself only after Mary did talk about him."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Fred talked about everything before Rusty did talk about something."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"John often meets Mary."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"The problem perceives easily."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"A hundred men surrounded the fort."}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"We elected me."}
+{"ax":"bc01","labels":0,"kong":"*","sentences":"Which report that John was incompetent did he submit?"}
+{"ax":"bc01","labels":1,"kong":null,"sentences":"Mary has always preferred lemons to limes."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"He let the cats which were whining out."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"What did Bill buy?"}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Mary saw the boy walking toward the railroad station."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"A proof that the claim had been. made was giver that John had lied."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory."}
+{"ax":"r-67","labels":0,"kong":"?*","sentences":"The mayor regarded as being absurd the proposal to build a sidewalk from Dartmouth to Smith."}
+{"ax":"r-67","labels":0,"kong":"?*","sentences":"I want that Bill left to remain a secret."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"I know a man who Tom drives as drives."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"Drowning cats, which is against the law, are hard to rescue."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Muriel said nothing else than that she had been insulted."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"Himself is understood by Rutherford."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"I feel that Arch will show up."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"The proof this set is recursive is difficult."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"The madrigals which Henry plays the lute and sings sound lousy."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Tom picked these grapes, and I washed some turnips, and Suzie will prepare these grapes."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Where did you go and who ate what?"}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"Which boy's did we elect guardian's employer president?"}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"How sane is Peter?"}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"I live at the place where Route 150 crosses the River and my dad lives at the place where Route 150 crosses the Hudson River too."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"I live at the place where Route 150 crosses the Hudson River and my dad lives at it too."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Who is she trying to make up to now?"}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"Wind was gotten of a plot to negotiate an honorable end to the war in Vietnam."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Mike talked about politics yesterday to my friends."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"It was expected by the reporters that the principal would fire some teacher."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"Which hat did Mike quip that she never wore?"}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"Which girl did Mike quip never wore this hat?"}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"We donated wire for the convicts to build cages with."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"I won't have some money."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Do you believe the claim that somebody was looking for something?"}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"I won't ask you to believe that he tried to force me to give her any money."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"That Sam sometimes didn't sleep must have pleased somebody."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"I talked to Winston about himself."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"That the fuzz wanted him worried John, but that the fuzz wanted her didn't worry Mary."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"I'll work on it if Sam will be working on it."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"I'll work on it if I can."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"Here's a knife with which for you to cut up the onions."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Fluffy is sick, which not everybody knows."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Maxwell is quite a doctor."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"The younger woman might have been tall and, and the older one definitely was, blond."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Sally is tall, and may be blond, and Sheila is short, and definitely is, blond."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"I have to try to finish grading some papers."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"The socks are ready for for you to put on to be planned."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"It is easy to play sonatas on this violin."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"This violin is difficult to play sonatas on."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"My mother is easy to please my father and."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Poor Bill, it had started to rain and he had no umbrella."}
+{"ax":"r-67","labels":0,"kong":"?*","sentences":"That the cops spoke to the janitor about it yesterday is terrible, that robbery."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"Every student, and he wears socks, is a swinger."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"That girl was given my binoculars by him."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Bill didn't allege that Roger had eaten anything."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Nobody who hates to eat anything should work in a delicatessen."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"Everybody around here who ever buys anything on credit talks in his sleep."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"I can't remember the name of somebody who had misgivings."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"No writer, and no playwright, meets in Vienna."}
+{"ax":"r-67","labels":0,"kong":"*","sentences":"No writer, nor any playwright, meets in Vienna."}
+{"ax":"r-67","labels":1,"kong":null,"sentences":"That you will marry any student is not certain."}
+{"ax":"rhl07","labels":1,"kong":null,"sentences":"Felicia kicked the ball off the bench."}
+{"ax":"rhl07","labels":1,"kong":null,"sentences":"I sent the package halfway around the world."}
+{"ax":"rhl07","labels":0,"kong":"*","sentences":"Sam gave the ball out of the basket."}
+{"ax":"rhl07","labels":0,"kong":"*","sentences":"Sam offered the ball out of the basket."}
+{"ax":"rhl07","labels":1,"kong":null,"sentences":"Park Square has a festive air."}
+{"ax":"rhl07","labels":1,"kong":null,"sentences":"The worker will have a job."}
+{"ax":"rhl07","labels":0,"kong":"*","sentences":"No one can forgive that comment to you."}
+{"ax":"rhl07","labels":1,"kong":null,"sentences":"We launched the rocket to the moon, but it blew up before it got there."}
+{"ax":"rhl07","labels":1,"kong":null,"sentences":"Sarah promised Catherine her old car, but then gave it to her son instead."}
+{"ax":"rhl07","labels":0,"kong":"*","sentences":"I lent the book partway to Tony."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The farmer loaded the cart with apples."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"The farmer dumped the cart with apples."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Martha carved the baby a toy out of wood."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The bread cuts easily."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Janet broke Bill on the finger."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Janet broke the cup."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The visitor rang the bell."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"We pulled free."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"That movie always shocks people."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"That movie always shocks."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Sharon came the room."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Bill sent a package to Tom."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"That acorn will grow into an oak tree."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"He turned into a frog."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"I mixed the sugar into the butter."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Brian threw the fence with the stick."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Mira condemned Terry for the accident."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"We investigated the area for bombs."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"I sensed his eagerness."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"They praised the dedication in the volunteers."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The earth was believed to be round."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Sarah smiled a charming smile."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Sandra beamed a cheerful welcome."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"You've really lived it up."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Paperback books lift onto the table easily."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"The books lifted onto the table."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Jessica loaded boxes under the wagon."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Jessica loaded boxes on the wagon."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Jessica crammed boxes at the truck."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Lora buttered at the toast."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Carla shoveled the walk."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Nora sent the book."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Nora sent Peter the book."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Carla slid the book."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Carla slid at the book."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Amanda carried the package to Pamela."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Packages drive easily to New York."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"The chair pushed."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"We offered a job to her."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"A job offered."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Brown presented a plaque to Jones."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Carmen bought Mary a dress."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Carmen obtained the spare part at the hardware store."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Michelle kept the desk with the papers."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Frances hid the presents in the drawer."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The needle poked the cloth."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Carrie touched that cat."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Herman whipped the sugar and the cream."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Linda taped the picture to the wall."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Linda taped the picture onto the wall."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The child and her mother clung together."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"This flyer and that flyer differ."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"This flyer and that flyer differ apart."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"The jeweller scribbled the contract with his name."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The gardener grew that acorn into an oak tree."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"I shaped a loaf."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"The children amused."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Susan whispered the news."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Susan whispered at Rachel."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Ellen said that melons were selling well."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Ellen said about the present conditions."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Ellen warned Helen against skating on thin ice."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Cynthia nibbled on the carrot ."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Cynthia chewed."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Paul laughed at Mary."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"Linda winked her lip."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"My heart is pounding me."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Sharon fainted from hunger."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The witch poisoned the children."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"A grandfather clock ticked in the hallway."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"I squeaked the door."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Over the fire there bubbled a fragrant stew."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Soaring temperatures are predicted for this weekend."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"The fort fluttered with many flags."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The voices echoed in the hall."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"The stream twists through the valley."}
+{"ax":"l-93","labels":0,"kong":"*","sentences":"There presented itself a wonderful opportunity yesterday."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"A wonderful opportunity presented itself to him yesterday."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Out of the box jumped a little white rabbit."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Penny skated around the rink."}
+{"ax":"l-93","labels":1,"kong":null,"sentences":"Jackie accompanied Rose."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"many information was provided."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"John offers many advice."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"The cake that Jones got was more delicious than the one that Smith got."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"We recommend to eat less cake and pastry."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"I saw that gas can explode."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"He washed her."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Wash you!"}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"They have no in."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Some my jobs are in jeopardy."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"It was the policeman met that several young students in the park last night."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"did the policeman meet in the park?"}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John put old books in the box."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"The monkeys proud of their leader."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"John sounded very."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"I don't know if I should agree."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John bought a book on the table."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John called the president a fool."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"I forgot how good beer tastes."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"This teacher is a genius."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"A good friend is remained to me by him."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John ate his noodle quietly."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"A smith hammered the metal."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Sandy removed her ballet shoes."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"This week will be a difficult one for us."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Benny worked in a shoe factory when he was a student."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Everyone hoped that she would sing."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"This proved a decisive factor."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"The crocodile devoured the doughnut."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John is afraid of Bill."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"John put under the bathtub."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John placed Kim behind the garage."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Kim depends for Sandy."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John put the book in the box."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John taught English Syntax to new students."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John regards Bill as a good friend."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Kim put in the box."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"The chickens seem fond of the farmer."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"The rules require that the executives be polite."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"That Fred was unpopular nominated Bill."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"They were taking a hard look at possible FTA."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"John paid me against the book."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"The committee will study the feasibility of setting up a national computer network."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"We made them be rude."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"After reading the pamphlet, Judy threw it into the garbage can."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Students studying English reads Conrad's Heart of Darkness while at university."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"I read some of the book."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Most of the fruit is rotten."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Neither of students failed."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"I drank some of water."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"It is a golden hair."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"The boy in the doorway waved to his father."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"That dog is so ferocious, it even tried to bite itself."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"He washed yourself."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"John is easy to please Kim."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"There seemed to be intelligent."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John tried to please Stephen."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"We believed John to be a fountain in the park."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"It tries to leave the country."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John tries to leave the country."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Under the bed seems to be a fun place to hide."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"There is believed to be sheep in the park."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"I hope to would study in France."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John can kick the ball."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"John will rain tomorrow."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"We expect there to will rain."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John was found in the office."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Did the child be in the school?"}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"It did not rain."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"John wants not to leave the town."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Mary likes to tour art galleries, but Bill hates to."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"They needn't take this exam."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Ann may spend her vacation in Italy."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"They love to play golf, but I do not."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"George has spent a lot of money, hasn't he?"}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"As a statesman, scarcely could he do anything worth mentioning."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"We never found any of the unicorns."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"One of Korea's most famous poets wrote these lines."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Somebody apparently struck the unidentified victim during the early morning hours."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"The car was driven."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Ricky can be relied on."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"The bed was slept in."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"A pound was weighed by the book."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Who do you think Tom saw?"}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"he had spent five thousand dollars."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Fed knows which politician her to vote for."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"How did you guess that he fixed the computer?"}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"The committee knows whose efforts to achieve peace the world should honor."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Which house does your friend live?"}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"the baker from whom I bought these bagels left."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"I found the place where we can relax."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Jack is the person with whom Jenny fell in love with."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"There is a bench to sit on."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"I met the man who grows peaches."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Which topic did you choose without getting his approval?"}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Which topic did you get bored because Mary talked about?"}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"That is the reason why he resigned."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"It bothers me that John coughs."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"To please John is easy."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"Kim is eager to please Tom."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"That we invaded Iraq really bites."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"It annoys me that Fido barks."}
+{"ax":"ks08","labels":0,"kong":"*","sentences":"Who achieved the best result was Angela."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"It was the peasant girl who got it."}
+{"ax":"ks08","labels":1,"kong":null,"sentences":"That kind of person is hard to find anyone to look after."}
+{"ax":"kl93","labels":1,"kong":null,"sentences":"A sick owl doesn't hunt mice."}
+{"ax":"kl93","labels":1,"kong":null,"sentences":"Each candidate who has interest in semantics will be admitted to the department."}
+{"ax":"kl93","labels":1,"kong":null,"sentences":"Each author whose contribution is written in any language other than English will provide a summary in English."}
+{"ax":"kl93","labels":1,"kong":null,"sentences":"I'm sure we even got these tickets!"}
+{"ax":"kl93","labels":1,"kong":null,"sentences":"I'm even sure we got these tickets!"}
+{"ax":"kl93","labels":1,"kong":null,"sentences":"It's not because I have any sympathy for urban guerillas that I helped him."}
+{"ax":"kl93","labels":1,"kong":null,"sentences":"It isn't because Sue said anything bad about me that I'm angry."}
+{"ax":"b_82","labels":0,"kong":"*","sentences":"That he was hungry, John whined."}
+{"ax":"b_82","labels":0,"kong":"*","sentences":"1 gave Mary after the party a book."}
+{"ax":"b_82","labels":0,"kong":"*","sentences":"Because she's so pleasant, as for Mary I really like her."}
+{"ax":"b_82","labels":1,"kong":null,"sentences":"Though he may hate those that criticize Carter, it doesn't matter."}
+{"ax":"b_82","labels":1,"kong":null,"sentences":"With no job would John be happy."}
+{"ax":"b_73","labels":1,"kong":null,"sentences":"I have much of the manuscript left to type."}
+{"ax":"b_73","labels":1,"kong":null,"sentences":"He's a more reliable man."}
+{"ax":"b_73","labels":0,"kong":"*","sentences":"Any trouble is what I don't want."}
+{"ax":"b_73","labels":1,"kong":null,"sentences":"They may grow as high as bamboo."}
+{"ax":"b_73","labels":1,"kong":null,"sentences":"Some of them made as many errors as 20."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"Sally kissed himself."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Drew believes I think Rosie loves magazine ads."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Dave, Dan, Erin, Jaime, and Alina left."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Hopefully, we'll make it through the winter without snow."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"Blue leather shows herself that Betsy is pretty."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Gwen hit the baseball."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"I hit that you knew the answer."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"I've lost my wallet or I've lost my mind."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"It was a brand new car that he bought."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"He likes cookies and he hates crumb cake."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"They chased the man with the car."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"I didn't have a red cent."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"the book of poems and from Blackwell takes a very long time to read."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"the one with a red cover takes a very long time to read."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"John has a fear of dogs."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"The building's the roof is leaking."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"the panther's the coat is dark black."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Colin asked if they could get a mortgage."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"The man I saw get into the cab robbed the bank."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"I know you eat asparagus."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"John's drum will always bother me."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"An evil thought struck Dave."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"In the classroom John put the book on the table."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Phillip gave the medal to the soldier."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"Heidi thinks that Andy to eat salmon flavored candy bars."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Heidi thinks that Andy should eat salmon flavored candy bars."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"He danced."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"Did Calvin his homework?"}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Sylvia was slapping Jeff upside the head in martial arts class."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"If I am a rich man, I'd buy a diamond ring."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"If he were a rich man, he'd buy a diamond ring."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"John is likely to leave."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"The manager laughed."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"Was sunk."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Who did you think kissed the gorilla?"}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Have you seen my model airplane collection?"}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"It seems that Lucy was mugged."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"I ate a salad that was filled with lima beans."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"There were four men arriving at the station when I pulled up."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Jean is reluctant to dance."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"I want her to dance."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Jean persuaded Robert."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Jean wants Bill to do the Macarena."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"The children admire their mother."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Who has Peter talked with?"}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Heidi likes her violin."}
+{"ax":"c_13","labels":0,"kong":"*","sentences":"John thinks that Mary loves himself."}
+{"ax":"c_13","labels":1,"kong":null,"sentences":"Which pictures of himself does John like?"}
+{"ax":"d_98","labels":1,"kong":null,"sentences":"Any owl hunts mice."}
+{"ax":"d_98","labels":0,"kong":"*","sentences":"Any man didn't eat dinner."}
+{"ax":"d_98","labels":1,"kong":null,"sentences":"A pilot could be flying this plane."}
+{"ax":"d_98","labels":1,"kong":null,"sentences":"Everybody who attended last week's huge rally, whoever they were, signed the petition."}
+{"ax":"d_98","labels":1,"kong":null,"sentences":"Anybody who attended last week's huge rally signed the petition."}
+{"ax":"d_98","labels":1,"kong":null,"sentences":"Any tiger has orange fur, marked with black stripes."}
+{"ax":"d_98","labels":1,"kong":null,"sentences":"Any albino tiger has orange fur, marked with black stripes."}
+{"ax":"d_98","labels":1,"kong":null,"sentences":"You must pick any flower you see."}
+{"ax":"d_98","labels":1,"kong":null,"sentences":"Any pilot on duty today could be flying this plane."}
+{"ax":"d_98","labels":0,"kong":"*","sentences":"You may pick every flower, but leave a few for Mary."}
+{"ax":"g_81","labels":1,"kong":null,"sentences":"The Dodgers beat the Red Sox and were beaten by the Giants."}
+{"ax":"g_81","labels":1,"kong":null,"sentences":"In which car was the man seen?"}
+{"ax":"g_81","labels":1,"kong":null,"sentences":"The man who Mary loves and Sally hates computed my tax."}
+{"ax":"g_81","labels":0,"kong":"*","sentences":"The kennel which Mary made and Fido sleeps has been stolen."}
+{"ax":"g_81","labels":1,"kong":null,"sentences":"Tom said he would and Bill actually did eat a raw eggplant."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"The wealthy young man bought that piano for his secret fianc\u00e9e."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"The dog stole the turkey."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"a tall building."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"This building is tall."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"I like the book which you gave me."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Captain Wentworth wrote a letter to Anne Elliott."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"She asked was Alison coming to the party."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"They realised that never had Sir Thomas been so offended."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Fanny regretted having to talk to Aunt Norris."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Knowing the country well, he took a short cut."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"He left the train with somebody else's wallet in his pocket."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Magnus went to Ireland."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Who did John send the book?"}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"The idea dismayed the Prime Minister that the Dome was dull."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Came right in he did without so much as a knock."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Harriet admired Mr Knightley."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"The book is boring."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Ethel wishes to ask you some awkward questions."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Emma made Harriet some food."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"The window was broken with a hammer."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"The fugitive lay motionless in order to avoid discovery."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"The guard marched the prisoners round the yard."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Frank Churchill crossed the street."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Emma and Harriet were attacked yesterday."}
+{"ax":"m_02","labels":1,"kong":null,"sentences":"Fiona might be here by 5 o'clock."}
+{"ax":"sgww85","labels":1,"kong":null,"sentences":"I am both expecting to get the job and of the opinion that it is a desirable one."}
+{"ax":"sgww85","labels":1,"kong":null,"sentences":"Pat was awarded the Golden Fleece Award and very upset about it."}
+{"ax":"sgww85","labels":0,"kong":"*","sentences":"Kim alienated cats and beating his dog."}
+{"ax":"sgww85","labels":1,"kong":null,"sentences":"They knew that pictures of each other would be on sale."}
+{"ax":"sgww85","labels":0,"kong":"*","sentences":"Which article did Terry file papers without reading?"}
+{"ax":"sgww85","labels":1,"kong":null,"sentences":"I want to try and buy some whiskey."}
+{"ax":"sgww85","labels":0,"kong":"*","sentences":"She goes and buying some whiskey."}
+{"ax":"sgww85","labels":0,"kong":"*","sentences":"Kim and Terry is happy."}
+{"ax":"sgww85","labels":1,"kong":null,"sentences":"Kim gave a dollar to Bobbie and a dime to Jean."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"This girl in the red coat will put a picture of Bill in the mailbox and on your desk before tomorrow."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"Put a picture of Bill on your desk before tomorrow, this girl in the red coat will put a picture of Bill on your desk before tomorrow."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"Picture of Bill, this girl in the red coat will put a picture of Bill on your desk before tomorrow."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"Ann bought a first edition of Richard III for $1000."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"John became deadly afraid of flying."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"What John promised is to be gentle."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"Henri wants to buy which books about cooking?"}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"I will fix the computer for Carol."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"Smith loaned a valuable collection of manuscripts to the library."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"The paper is cut by Mary."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"It was from six to nine or it took place from six to nine."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"Suddenly, there arrived two inspectors from the INS."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"The soup cooks, thickens."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"I gave money to the charity."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"John asked."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"I saw even the student."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"John whispered Mary left."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"Mary wonders that Bill will come."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"Sophie will theater."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"John finished the cake and drank the lemonade."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"Herself likes Mary's mother."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"Each of the boys fought with some of the other boys."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"John's mother likes himself."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"Mary revealed himself to John."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"Mary believes that Bill saw himself."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"John heard that they criticized themselves."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"Mary thinks that she is smart."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"Henry found that Bill is sad."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"John considers himself proud of Mary."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"You should sit before there."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"There is a nurse available."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"Everyone hopes everyone to sleep."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"Everyone hopes that he will sleep."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"John promise Mary to shave himself."}
+{"ax":"sks13","labels":1,"kong":null,"sentences":"John convinced Bill that Mary should sleep."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"I saw Bill while you did so Mary."}
+{"ax":"sks13","labels":0,"kong":"*","sentences":"What Mary did Bill was give a book."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"The bears sniffed"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"to steal talismans from witches is dangerous"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"Anson demonized"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"You kicked yourselves"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"The book that I said that I'd never read."}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"Anson demonized up the Khyber"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"It is not true that I might be going to the party."}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"Kick you!"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Jason persuaded the doctor to treat Medea"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Who did you get an accurate description of?"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"The Peter we all like was at the party"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"The government's imposition of a fine."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Did Athena help us?"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"You wanted to meet the man I saw."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Anson demonized David every day"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"There is a programme about Euripides on a Radio 4 tonight?"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Medea denied poisoning the phoenix."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"The elixir was hidden in a hole in the ground"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Extremely frantically, Anson danced at Trade"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"What did you ask who Medea gave?"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"It's Anson that I like"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"Medea tried the nurse to poison her children."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"I felt that I know you."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Will he can do it?"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"I ate that she was happy"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Anson believed himself to be handsome."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"We arrived about six o'clock"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"Gilgamesh is having fought the dragon."}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"Anson thought that himself was happy."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Fortunately Hermione passed biology"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"I might be not going to the party but washing my hair"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"I thought he liked myself"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"The butler sent the poison to Dinah."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Jason happens to appear to seem to be sick."}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"What did you ask who saw?"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"We linguists love to argue"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"He can will go"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"How fierce the battle?"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"Which king did you ask which city invaded?"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"It is some disgruntled old pigs in those ditches that humans love to eat."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"That banana is eating the monkey."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Burn them!"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"It stinks that Aphrodite is omnipotent."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Agamemnon seems to be a maniac"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Will Anson come to the party?"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"I wondered who Medea had poisoned."}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"I inquired when could we leave."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"They kicked them"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"The monkey is ate the banana"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"I would like to could swim"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"I kicked myself"}
+{"ax":"ad03","labels":0,"kong":"*","sentences":"The bookcase ran"}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"I shaved myself."}
+{"ax":"ad03","labels":1,"kong":null,"sentences":"Anson became a muscle bound."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Somebody just left - guess who."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"They claimed they had settled on something, but it wasn't clear what they had settled on."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"If Sam was going, Sally would know where."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"They're going to serve the guests something, but it's unclear what."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"She's reading. I can't imagine what."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"John said Joan saw someone from her graduating class."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"John ate dinner but I don't know who."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"She mailed John a letter, but I don't know to whom."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"I served leek soup to my guests."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"I served my guests."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"She was bathing, but I couldn't make out who."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"She knew French for Tom."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"John is tall on several occasions."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"The ship sank, but I don't know with what."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"They noticed the painting, but I don't know for how long."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"John was tall, but I don't know on what occasions."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Joan ate dinner with someone but I don't know who."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Joan ate dinner with someone but I don't know who with."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"I know that Meg's attracted to Harry, but they don't know who."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"Since Jill said Joe had invited Sue, we didn't have to ask who."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"I know that Meg's attracted to Harry, but they don't know who."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"She said she had spoken to everybody, but he wasn't sure who."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"Each of the performers came in, but were sitting so far back that we couldn't see who."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"She didn't talk to one student."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"She doesn't meet anyone for dinner, but they can't figure out who."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Everyone relies on someone. It's unclear who."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Each student wrote a paper on a Mayan language, but I don't remember which one."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"The newspaper has reported that they are about to appoint someone, but I can't remember who they are about to appoint."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Most columnists claim that a senior White House official has been briefing them, and the newspaper today reveals which one."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Most columnists claim that a senior White House official has been briefing them, but none will reveal which one."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Bill wondered how many papers Sandy had read, but he didn't care which ones."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"I never know which papers Sandy has read, but I usually know how many."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Sandy had read how many papers?!"}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Everybody gets on well with a certain relative, but often only his therapist knows which one."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Which book did each author recommend?"}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"His or her least known work."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"They were going to meet sometime on Sunday, but the faculty didn't know when."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"John likes some students, but I don't know who."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"I don't know who John likes."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"John likes some students, but I don't know who John likes some students."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"Joan said she talked to the students, but Fred couldn't figure out who."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"He announced he had eaten the asparagus, but we didn't know what."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"She was reading the books under the table, but Fred didn't know what books."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"He announced he would marry the woman he loved most, but none of his relatives could figure out who."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"She talked to John or Mary but I don't know which."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"She talked to John or Mary but I don't know which one."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"She talked to Harry, but I don't know who else."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"I will see them, but I don't know how many of them."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Everyone who knows either Susan or Laura likes her."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"She said she talked to three students but I don't know how many."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"She said she talked to those students but I don't know how many."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"He shouted again, but I don't know who to."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"She was dancing with somebody, but I don't know who with."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Several firefighters were injured, but it's not known."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Meg is attracted to Harry, but they don't know who she is attracted to."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"John and someone were dancing together, but I don't know who."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"The TA's have been arguing about whether some student or other should pass, but I can't now remember which one."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"It has been determined that somebody will be appointed; it's just not clear yet who."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"Sally asked if somebody was going to fail math class, but I can't remember who."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"The TA's have been arguing about whether some student or other should pass, but I can't now remember which one."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us which."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us in which way."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Clinton is anxious to find out which budget dilemmas Panetta would be willing to tackle in a certain way, but he won't say in which."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Sandy is wondering whether there will be students who have to drop the class for a certain reason, but she won't reveal what."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"In which way is Sandy very anxious to see if the students will be able to solve the homework problem?"}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"In which way is Clinton anxious to find out which budget dilemmas Panetta would be willing to solve?"}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"I know how many assignments I've graded, but I don't know how many Bill has."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"What did you leave before they did?"}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"What did you leave before they started playing?"}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Sandy was trying to work out which students would be able to solve a certain problem."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"The administration has issued a statement that it is willing to meet with one of the student groups."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"Sandy was trying to work out which students would be able to solve a problem."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"The administration has issued a statement that it is willing to meet a student group."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"The administration has issued a statement that it is willing to meet a student group, but I'm not sure which one."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"I think Agnes said that Bill would speak, but I don't remember what about."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"Agnes wondered how John could eat but it's not clear what."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"Tony sent Mo a picture that he painted, but it's not clear with what."}
+{"ax":"clc95","labels":1,"kong":null,"sentences":"She's been dancing but we don't know with whom."}
+{"ax":"clc95","labels":0,"kong":"*","sentences":"Who did they see someone?"}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"It was believed by everybody that Mary was a thief."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"That professor is feared by all students."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"Mary was respected by John."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"Ted was bitten by the spider."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"The book was by John written."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"The argument was summed by the coach up."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"The paper was written up by John."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"The paper was written by John up."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"John was spoken to by Mary."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"John was spoken by Mary to."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"The book was seen by Mary."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"John was seen the book."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"The book was written."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"John was spoke by Mary to."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"The table was wiped clean by John."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"The table was wiped by John clean."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"Mary was given by John the book."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"John was believed to be telling the truth by Mary."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"John was believed by Mary to be telling the truth."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"The car was driven by John to Maine."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"It was believed by the students that they would have an exam."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"The magazines were sent to herself by Mary."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"Chocolate eggs were hidden from each other by the children."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"The magazines were sent by Mary to herself."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"Chocolate eggs were hidden from no child by any adult."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"Tabs were kept on each agent by the other."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"Chocolate eggs were hidden from every child by his mother."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"Books were taken from no student and given to Mary."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"Books were taken from no student and given to Mary by any professor."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"Books were taken from each student by the other."}
+{"ax":"c-05","labels":1,"kong":null,"sentences":"Books were taken from each student and given to Mary."}
+{"ax":"c-05","labels":0,"kong":"*","sentences":"Books were taken from each student and given to Mary by the other."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Jack hates Sue and is loved by Mary."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Vera sent a baby alligator to Max and a leather dinosaur to Phyllis."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Either Sam plays the bassoon or Jekyll the oboe."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Sam doesn't play bassoon, nor Medusa oboe."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Bill ate the peaches, but Harry the grapes."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"I no more could have stolen that steak than Jack the diamonds."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Bill ate more peaches than Harry did grapes."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Bill ate the peaches and Harry did the grapes."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Tom will smoke the grass, and Reuben has the hash."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"If the ants were called elephants and elephants ants, I'd be able to squash an elephant."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Simon quickly dropped the gold, and Jack the diamonds."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Bob tried to wash himself, and Mary to read the funnies."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Harry told Sue that Albania is a lovely place for a vacation, and Tom told Sally that Albania is a lovely place for a vacation."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Harry told Sue that Albania is a lovely place for a vacation, and Tom."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Max seemed to be trying to begin to love Harriet, and Fred to be trying to begin to love Sue."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Max seemed to be trying to force Ted to leave the room, and Walt, Ira."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Max seemed to be trying to force Ted to leave the room, and Walt to stay a little longer."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Arizona elected Goldwater Senator, and Massachusetts, McCormack."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Millie will send the President an obscene telegram, and Paul, the Secretary a rude letter."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Maytag will give a brand-new dryer to the winner of the Mrs."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Bill didn't eat the peaches, nor Harry."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Bill ate the peaches, and Harry did, too."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Bill must quickly eat the peaches, and Harry must slowly."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Whenever Russia has made a major political blunder, the U.S. has too."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Bill's story about Sue and Max's about Kathy both amazed me."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"I bought three quarts of wine and two of Clorox."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Scientists at the South Hanoi Institute of Technology have succeeded in raising one dog with five legs, another with a cow's liver, and a third with no head."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Bill's story about Sue may be amazing, but Max's is virtually incredible."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"I like Bill's yellow shirt, but not Max's."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Bill's funny story about Sue and Max's boring one about Kathy both amazed me."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Bill's wine from France and Ted's from California cannot be compared."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"As a teacher, you have to deal simultaneously with the administration's pressure on you to succeed, and the children's to be a nice guy."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Neither Von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's on Angel has the right tempo."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Gould's performance of Bach on the piano doesn't please me anywhere as much as Ross's on the harpsichord."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Tom's dog with one eye attacked Frank's with three legs."}
+{"ax":"j_71","labels":0,"kong":"*","sentences":"Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Neither von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's has the right tempo."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Tom's dog with one eye attacked Fred's."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"I borrowed Fred's diagram of a snake's eye because Steve's had been stolen."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Jerry attempted to blow up the Pentagon."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"So fast did he run that nobody could catch him."}
+{"ax":"j_71","labels":1,"kong":null,"sentences":"Bill bought a red house, and Max bought one too."}
+{"ax":"s_97","labels":1,"kong":" ","sentences":"Who always drinks milk?"}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"The book which inspired them was very long."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"The book what inspired them was very long."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I know the person whose mother died."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"The person whose mother's dog we were all fond of."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I wonder whose mother died."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I wonder whose mother's dog died."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I wonder to whom they dedicated the building."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"Give me the phone number of the person whose mother's dog died."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"This is the senator to whose mother's friend's sister's I sent the letter."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"I want goes to the store."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"I wonder what to be a clown on the cover of."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"Bother you that Kim left!"}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"A student who to talk to us just walked in."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"Whose bagels do you like?"}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I wonder in whom to place my trust."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"There were several old rocks songs that she and I were the only two who knew."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"It was to to amuse us that Kim was singing that they wanted."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"What they feared most was to be no one available to help them."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"We tried to amuse them that Kim was singing."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"Mary asked me if, in St. Louis, John could rent a house cheap."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"Mary arranged for, in St. Louis, John to rent a house cheap."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"It would be unwise for there to be no fire exit."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I believe there to be no way out."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"I wonder in whom them to place their trust."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"I wonder whom us to trust."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"I wonder who for us to trust."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I wonder who to place my trust in."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I know the people that voted in the election."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I threw away a book that Sandy thought we had read."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I thought that you were sick."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"I dislike the people in who we placed our trust."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I dislike the company in which we placed our trust."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I dislike the people in whose house we stayed."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I dislike the person with whom we were talking."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"Jones, that we were talking to last night, always watches football games alone."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"A letter was received that Jones would be upset by."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"A letter was received Jones would be upset by."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"I saw someone yesterday I hadn't seen for years."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"Something happened I couldn't really talk about."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"The only person that I like whose kids Dana is willing to put up with is Pat."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"The book that I like which everyone else in the class hates was written by John."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"The only person whose kids Dana is willing to put up with was written by John."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"The book that I like - everyone else in the class hates."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"The only person whose kids Dana is willing to put up with is Pat."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"Which book's, author did you meet?"}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"Which boy's, mother, did you meet who you liked?"}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"Which book's, author did you meet who you liked?"}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"Which boy's, mother, did you meet?"}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"All who lost money in the scam are eligible for the program."}
+{"ax":"s_97","labels":0,"kong":"*","sentences":"Who for Sandy to talk to is still enrolled in the class?"}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"Who who you like does Sandy also like?"}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"Everything you like is on the table."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"The bills passed by the House yesterday that we objected to were vetoed."}
+{"ax":"s_97","labels":1,"kong":null,"sentences":"The only people being added to our group who were at Harvard were students."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We like ourselves."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Nobody likes us."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Leslie likes ourselves."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Ourselves like ourselves."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"She voted for herself."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"We gave us presents."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We gave ourselves presents."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We gave presents to ourselves."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"We gave us to the cause."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We gave ourselves to the cause."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Leslie told us about us."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Leslie told ourselves about us."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We think that Leslie likes us."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"We think that Leslie likes ourselves."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Our friends like us."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Those pictures of us offended us."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"We found your letter to ourselves in the trash."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Vote for you!"}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Vote for yourself!"}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"We appeared to them to vote for themselves."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We admired the pictures of us in the album."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We admired the pictures of ourselves in the album."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Leslie used a pen."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We put the pigs in a pen."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We need to pen the pigs to keep them from getting into the corn."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"They should pen the letter quickly."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The car won't run."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"This dye will run."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"She can run an accelerator."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"These stockings will run."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We need another run to win."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Lee saw the student with a telescope."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"I forgot how good beer tastes."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Visiting relatives can be boring."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"If only Superman would stop flying planes!"}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"That's a new car dealership."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"I know you like the back of my hand."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Max is on the phone now."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"I saw her duck."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"I'm creating a committee. Kim \u2013 you're in charge."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Lights go out at ten. There will be no talking afterwards."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"They found the book on the atom."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Which experts testified against defendants who exposed them?"}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"List all experts for the defendant who represented himself."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"List associates of each defendant who speaks Spanish."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"They lost themselves' books."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some sentences go on and on and on."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Sentences some go on and on and on and on."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"That surprised me."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"I noticed the."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"They were interested in his."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"This is my favorite."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"A large dog chased a small cat."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people yell at noisy dogs in my neighborhood."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people yell at the dogs in my neighborhood."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people yell at the dogs."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people yell at noisy dogs."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people yell at dogs."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people consider the noisy dogs dangerous."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people consider the dogs in my neighborhood dangerous."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people consider noisy dogs in my neighborhood dangerous."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people consider the dogs dangerous."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people consider noisy dogs dangerous."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people consider dogs in my neighborhood dangerous."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Some people consider dogs dangerous."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"People with children who use drugs should be locked up."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"This disease gave Leslie a fever in Rome."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The love of my life and mother of my children would never do such a thing."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Most elections are quickly forgotten, but the election of 2000, everyone will remember for a long time."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"It is painting by Klee or drawing by Miro that the museum displays no."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The defendant denied the accusation."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The teacher disappeared the problem."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The teacher handed the student."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The bird sings."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The bird sing."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Birds sings."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The birds give the worm a tug."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The bird give the worm a tug."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The birds gives the worm a tug."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Terry delighted in my pain."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Terry delighted."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Terry delighted my pain."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Kerry remarked it was late."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"What additional categories and rules would be required to handle these verbs?"}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We created a monster."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"I was already aware of fact."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The defendant deny the allegation."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The defendants denies the allegation."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The defendant walks."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The defendant walk."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The defendants walks."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"How many feature structures categories can label the first daughter?"}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The child put the toy on the table."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The teacher became angry with the students."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The teacher became."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The jury believed the defendant lied."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The guests dined."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We relied on Leslie."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"We relied above Leslie."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We celebrated in the streets."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We celebrated in the streets in the rain on Tuesday in the morning."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The children are happy of ice cream."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The children are fond with the ice cream."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The children are fond that they have ice cream."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"A magazine appeared on the newsstands."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"A magazine about crime appeared on the newsstands."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Newsweek appeared on the newsstands."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Newsweek about crime appeared on the newsstands."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The report that crime was declining surprised many people."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The book surprised many people."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The book that crime was declining surprised many people."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The storm arrived after the picnic."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The storm arrived while the picnic."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The storm arrived while we ate lunch."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"This dogs barked."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"These dogs barked."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"A chair was broken."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"They want them arrested."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"They preferred them arrested."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We preferred them on our team."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"With my parents as supportive as they are, I'll be in fine shape."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"We walks."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Few dog barked."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The dogs barked."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"I walk and Dana runs."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"They like us."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Us like them."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Kim likes dogs."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Dogs like Kim."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The person responsible confessed."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The person confessed responsible."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The cat slept soundly and furry."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The soundly and furry cat slept."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Chris walks, Pat eats broccoli, and Sandy plays squash."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"There was some particular dog who saved every family."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Susan frightens her."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Susan told her a story."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Susan told a story to her."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Susan devoted herself to linguistics."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Nobody told Susan about herself."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"That picture of Susan offended her."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"He offended Sandy."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"I enjoy yourself."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"They talk to themselves."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Nobody told Susan."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Protect yourself!"}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Protect you!"}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"I met the person who left."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Leslie slept."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Chris handed Bo."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Dana walked and Leslie ran."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Dana walking and Leslie ran."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Dana walking and Leslie running."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"the putter of books left."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Kris donated a book to the library."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The police sprayed the protesters with water."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The police sprayed water on the protesters."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The students drove cars."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"These cars drive easily."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The horse kicked me black and blue."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"They yelled."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The horse raced past the barn fell."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The horse that was raced past the barn fell."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The boat seen down the river sank."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The evidence assembled by the prosecution convinced the jury."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Lou forgot the umbrella."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Lou forgot the umbrella in the closet."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Lou hoped the umbrella was broken."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Lou hoped the umbrella in the closet."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Lou put the umbrella was broken."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Lou put the umbrella in the closet."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The artist drew the child with a pencil."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The dog bit the cat."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The cat was bitten the mouse."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The cat was bitten the mouse by the dog."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Chris was handed Sandy a note by Pat."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Chris was handed a note."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Chris was handed Sandy a note."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"TV puts dumb ideas in children's heads."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Dumb ideas are put in children's heads by TV."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Dumb ideas are put in children's heads."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Dumb ideas are put notions in children's heads by TV."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The patient died."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The patient was died."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Chris was handed."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"TV puts dumb ideas."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"He was arrested by the police."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The cat got bitten."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"The cat were bitten by the dog."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"There is a monster in Loch Ness."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"It is obvious that Pat is lying."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Pat is the captain of the team."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"Pat is hate Chris."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"There is a unicorn in the garden."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"There was a felon elected to the city council."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"There is a seat available."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"A seat available was in the last row."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Many people were fond of Pat."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"People are looking through the window."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"A felon was elected to the city council."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"There loved Sandy."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"We talked to them about there."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"It mattered that the Giants had lost."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"That dogs bark annoys people."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"It annoys people that dogs bark."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"That Chris knew the answer occurred to Pat."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"It never occurred to Pat that Chris knew the answer."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"That the Cardinal won the game gave Sandy a thrill."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"It gave Sandy a thrill that the Cardinal won the game."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"That Sandy had lied suggested."}
+{"ax":"swb04","labels":0,"kong":"*","sentences":"It loved Sandy."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Cohen proved the independence of the continuum hypothesis."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Cohen proved that the continuum hypothesis was independent."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"We forgot our invitations."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Nobody saw Pat."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"That Fido barks annoys me."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Fido barks."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Chris dreads the bucket."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The candidates bring advantage to the voters."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Tabs are kept on suspected drug dealers by the FBI."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"Advantage is taken of every opportunity for improvement."}
+{"ax":"swb04","labels":1,"kong":null,"sentences":"The bucket was kicked by Pat."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John is sad."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John loaded the wagon full with hay."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John loaded the wagon with hay green."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"I presented John with it dead."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"Of whom are you thinking?"}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John became rich."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I gave John gold apples."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"how silly is Bill considered?"}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"how mad was Bill made?"}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John is sick."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John left singing."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John is near Larry."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John gave Bill the dog dead."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"Bill was struck by John as stupid."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John was struck as sick."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John was struck by Bill's idiocy."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John promised Bill to leave."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John tried to leave."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"To leave would be a pleasure."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John was struck by Bill as pompous."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John was promised by Bill to leave."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"They make good cooks."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"there is nothing to do."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John has something for Bill to do."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I am counting on Bill to incriminate himself."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"On whom are you counting to incriminate himself?"}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I am counting on Bill to get there on time."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I would prefer to leave."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I would hate for John to leave."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I would prefer for John to leave."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"It was hated for John to leave."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John decided for Bill to get the prize."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John decided Bill to get the prize."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"to die is no fun."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John wants to leave."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John counted on Bill to get there on time."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I bought Bill a book to read."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John told Mary that it would be important to leave early."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John told Mary that it was important to Fred to leave early."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John, told Mary that it would be appropriate to leave together."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"the election of John president surprised me."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John's arriving dead surprised me."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"the attempt by John to leave surprised me."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John left orders to follow Pete."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John left us orders to follow Pete."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John left orders not to be disturbed."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"That he is here is clear."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"It is a problem that he is here."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"It bothers me that he is here."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John regretted it that Bill had a good time."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John believes it that Bill is here."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John believes it sincerely that Bill is here."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John is aware of it that Bill is here."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John felt it that Bill was tardy."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John believed it that Bill was tardy."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"It was believed that Bill was tardy."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"That John is reluctant seems."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"It is the problem that he is here."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"That he is here is the problem."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"The problem we are discussing is George."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"It is to give up to leave."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"It would prove our theory to be untenable for carrots to be vegetables."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"It was believed to be illegal by them to do that."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John grudgingly accepted judgments of his incompetence as an auto mechanic."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"It was to John that I gave the book."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I bought it to read."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I bought it to give to Pete."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I gave it to Pete to take to the fair."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"I gave Pete the book to impress."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I wrote to Bill."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I presented it to Bill to read."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"I presented Bill with it to read."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"I gave a book to Bill to read."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John thinks it would upset himself to die."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John made Bill mad at himself."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John made Bill master of himself."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"The correspondence school made Bill a good typist."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"The correspondence school sent Bill a good typist."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John considers Bill silly."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John considers Bill to be silly."}
+{"ax":"w_80","labels":0,"kong":"*","sentences":"John bought a dog for himself to play with."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John arranged for himself to get the prize."}
+{"ax":"w_80","labels":1,"kong":null,"sentences":"John talked to Bill about himself."}
